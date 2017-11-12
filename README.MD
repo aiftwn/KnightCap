@@ -1,3 +1,6 @@
+>NOTE: I am not the author of the paper. I have simply uploaded the source codes from ftp://samba.anu.edu.au/pub/KnightCap.
+
+
 This is version 3.3 of KnightCap. There have been substantial changes
 since version 2.4, hence the new major number. The main difference is
 KnightCap now learns its eval. See below for details.
